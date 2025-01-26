@@ -1,0 +1,23 @@
+{
+  "name": "gestion-evidencias-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "vue": "^3.2.0",
+    "vue-router": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.0"
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": ".eslintrc.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

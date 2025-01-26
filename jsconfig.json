@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "baseUrl": "./src",
+    "paths": {
+      "@/*": ["./*"]
+    },
+    "jsx": "preserve"
+  },
+  "include": [
+    "src/**/*.js",
+    "src/**/*.vue"
+, "../../server.js"  ]
+}
